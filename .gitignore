@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+*.log
+*.jsonl
+newapi_accounts.txt
+newapi-report.json
+newapi-report.jsonl
+auth.json
+*.cookie
